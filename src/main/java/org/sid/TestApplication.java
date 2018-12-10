@@ -14,6 +14,7 @@ public class TestApplication implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("waaakhdem yaaak");
+		System.out.println("waaahia");
 		
 	}
 }
